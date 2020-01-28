@@ -23,6 +23,8 @@
 
    
     $queries= array(
+
+    	//example queries(you can delete this queries)
   "CREATE TABLE IF NOT EXISTS pages (
         id int(11) NOT NULL AUTO_INCREMENT,
         title varchar(128) NOT NULL,
