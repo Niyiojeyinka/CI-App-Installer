@@ -1,11 +1,11 @@
 <?php
 /***
- * Name:       Adnetwork server
+ * Name:       Installer
  * Package:     Install.php
- * About:        A controller that handle auto table creation operation operation
- * Copyright:  (C) 2018,2019,2020
+ * About:        A controller that handle installation of /ci project
+ * Copyright:  (C) 2020
  * Author:     Ojeyinka Philip Olaniyi
- * License:    closed /propietry
+ * Twitter    @niyiojeyinka
  ***/
 
 
