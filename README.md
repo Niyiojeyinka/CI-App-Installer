@@ -12,5 +12,7 @@
 	<li>repeat the above for database.php</li>
 	<li>copy all files under controllers directory to your codeigniter 3 app directory</li>
 	<li>copy the installer folder under views folder of this install to the views directory of your app</li>
+	<li>No open the Installer.php controller in your favourite text editor and insert your SQL query string in the queries array</li>
 	
+	Check the code below
 </ul>
