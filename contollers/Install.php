@@ -57,7 +57,7 @@ class Install extends CI_Controller {
    public function index()
    {
          
-  $data['appName']="Ads Network Server by <a href='https://www.twitter.com/niyiojeyinka'>Niyiojeyinka</a>";
+  $data['appName']="CI App installer by <a href='https://www.twitter.com/niyiojeyinka'>Niyiojeyinka</a>";
  /* 
 $dirs = explode(DIRECTORY_SEPARATOR, __DIR__);
 var_dump($dirs);
